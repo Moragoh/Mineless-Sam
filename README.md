@@ -19,7 +19,7 @@ Mineless is a puzzle game with an hour-long storymode campaign.
   
 ![GameplayMineral](https://github.com/Moragoh/Mineless-Sam/assets/24793742/c7f0df97-3842-42b9-b7ca-107b2da393b7)
 
-- But our miners also need to eat! Route your miners to the green caves to gather food so they can stay alive. If their hunger (green bar) reaches zero, they will start losing health (red bar). Put your miners to work, but make sure they survive!
+- But our miners also need to eat! Route your miners to the green caves to gather food. If their hunger (green bar) reaches zero, they will start losing health (red bar). Put your miners to work, but make sure they survive!
   
 ![GameplayFood](https://github.com/Moragoh/Mineless-Sam/assets/24793742/8db1c869-0582-4b0e-8ff1-49ef6d57523d)
 
