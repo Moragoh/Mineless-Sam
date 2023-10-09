@@ -1,4 +1,4 @@
-# Mineless-Sam-Release
+# Mineless
 A short puzzle game with an hour-long story mode campaign.
 
 ## Credits
