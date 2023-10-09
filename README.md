@@ -9,5 +9,9 @@ Story & Art by Jun Min Kim
 ## Gameplay
 
 ## Installation
-For mac, download the Mineless_Mac file.
-For Windows, download the Mineless_Windows file.
+- macOS:
+Simply run the Mineless_Mac.app file
+
+
+Windows: 
+Download the Mineless_Windows folder, and run the Mineless.exe file inside it.
