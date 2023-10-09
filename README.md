@@ -2,9 +2,9 @@
 A short puzzle game with an hour-long story mode campaign.
 
 ## Credits
-Programmed by Jun Min Kim and Tim Stewart
+- Programmed by Jun Min Kim and Tim Stewart
 
-Story & Art by Jun Min Kim
+- Story & Art by Jun Min Kim
 
 ## Gameplay
 
