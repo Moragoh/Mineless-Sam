@@ -2,6 +2,7 @@
 A short puzzle game with an hour-long story mode campaign.
 
 Programmed by Jun Min Kim and Tim Stewart
+
 Story & Art by Jun Min Kim
 
 INSTRUCTIONS FOR INSTALLING
