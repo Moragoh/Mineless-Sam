@@ -15,7 +15,7 @@ Mineless is a puzzle game with an hour-long storymode campaign.
   
 ![Gameplay1](https://github.com/Moragoh/Mineless-Sam/assets/24793742/afca78d8-9ca1-4cc1-bd90-1860b5c11aaa)
 
-- The caves with the minerals in them are colored yellow. Make your miners dig their way to these caves to start collecteing the valuable resources.
+- The caves with the minerals in them are colored yellow. Make your miners dig their way to these caves to start collecting the valuable resources.
   
 ![GameplayMineral](https://github.com/Moragoh/Mineless-Sam/assets/24793742/c7f0df97-3842-42b9-b7ca-107b2da393b7)
 
