@@ -1,5 +1,5 @@
 # Mineless
-A short puzzle game with an hour-long story mode campaign.
+Mineless is a puzzle game with an hour-long storymode campaign.
 
 ## Credits
 - Programmed by Jun Min Kim and Tim Stewart
