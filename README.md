@@ -13,5 +13,5 @@ Story & Art by Jun Min Kim
 Simply run the Mineless_Mac.app file
 
 
-Windows: 
+- Windows: 
 Download the Mineless_Windows folder, and run the Mineless.exe file inside it.
